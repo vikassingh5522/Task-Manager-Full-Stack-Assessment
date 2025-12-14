@@ -186,11 +186,5 @@ GitHub: [https://github.com/vikassingh5522](https://github.com/vikassingh5522)
 
 ---
 
-## 📄 License
-
-This project is for vikas singh and learning purposes.
-
----
 
 
-```
