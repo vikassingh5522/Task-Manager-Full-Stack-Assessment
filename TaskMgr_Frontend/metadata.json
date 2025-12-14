@@ -1,0 +1,5 @@
+{
+  "name": "task-manager-frontend",
+  "description": "A robust Task Manager application built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
